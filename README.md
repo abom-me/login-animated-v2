@@ -1,16 +1,10 @@
 # login_animated
+A login page with a memoji character that reacts when you type your password.
+The project build by Flutter.
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+Preview:
 
-A few resources to get you started if this is your first Flutter project:
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/111135292/196232340-894b6053-9133-4c72-8322-6863b4bf86ae.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
